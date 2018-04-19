@@ -23,7 +23,7 @@ namespace Tetris1
             {
                 Brique.Top = Brique.Top + 1;
                 Application.DoEvents();
-                Thread.Sleep(10);
+                Thread.Sleep(12);
             }
         }
     }
